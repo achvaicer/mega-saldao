@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<products>
+  <product>
+    <name>Code Complete</name>
+    <price>50</price>
+    <description>Code Complete - Melhor livro sobre desenvolvimento de software</description>
+    <quantity>1</quantity>
+    <image>http://ecx.images-amazon.com/images/I/51nWkLCu1SL._SS500_.jpg</image>
+  </product>
+  <product>
+    <name>How We Test Software at Microsoft</name>
+    <price>50</price>
+    <description></description>
+    <quantity>1</quantity>
+    <image></image>
+  </product>
+  <product>
+    <name>Refactoring</name>
+    <price>60</price>
+    <description></description>
+    <quantity>1</quantity>
+    <image></image>
+  </product>
+  <product>
+    <name>Engenharia de Software</name>
+    <price>80</price>
+    <description></description>
+    <quantity>1</quantity>
+    <image></image>
+  </product>
+</products>

@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using System.Xml.Serialization;
+using System.IO;
 
 namespace mega_saldao.Controllers
 {
@@ -10,9 +12,10 @@ namespace mega_saldao.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Welcome to ASP.NET MVC!";
+            var serializer = new XmlSerializer(typeof(Models.Catalog));
+            var catalog = (Models.Catalog)serializer.Deserialize(new StreamReader(Server.MapPath("~/App_Data/products.xml")));
 
-            return View();
+            return View(catalog.Products);
         }
 
         public ActionResult About()
