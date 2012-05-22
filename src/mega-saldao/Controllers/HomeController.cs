@@ -13,7 +13,9 @@ namespace mega_saldao.Controllers
         public ActionResult Index()
         {
             var serializer = new XmlSerializer(typeof(Models.Catalog));
-            var catalog = (Models.Catalog)serializer.Deserialize(new StreamReader(Server.MapPath("~/App_Data/products.xml")));
+            Models.Catalog catalog;
+            using (var stream = new StreamReader(Server.MapPath("~/App_Data/products.xml")))
+                catalog = (Models.Catalog)serializer.Deserialize(stream);
 
             return View(catalog.Products);
         }

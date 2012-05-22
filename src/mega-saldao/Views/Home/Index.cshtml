@@ -1,15 +1,30 @@
 ﻿@model List<mega_saldao.Models.Product>
-
 @section head
 {
     <script src="@Url.Content("~/Scripts/simpleCart.min.js")" type="text/javascript"></script>
     <script type='text/javascript'>
         $(document).ready(function () {
-            simpleCart({ checkout: { type: "PayPal", email: "achvaicer@gmail.com" }, currency: "BRL",
+            simpleCart({ checkout: { type: "PayPal", email: "achvaicer@gmail.com" }, currency: "BRL" });
+            simpleCart({
+                cartColumns: [
+                    { attr: "name", label: "Nome" },
+                    { attr: "price", label: "Preço", view: 'currency' },
+                    { view: "decrement", label: false, text: "-" },
+                    { attr: "quantity", label: "Qtd" },
+                    { view: "increment", label: false, text: "+" },
+                    { view: "remove", text: "Remover", label: false }
+                    ]
+                        });
+            $(".btncart").click(function () {
+                $(".simpleCart_items").toggle("slow");
             });
+            $(".hero-unit").fadeOut(3000);
         });
     </script>
 }
+<div class="simpleCart_items" style="display: none">
+    
+</div>
 <div class="hero-unit">
     <h1>
         Boas Compras</h1>
@@ -24,10 +39,9 @@
             <div class="thumbnail">
                 <img height="141px" src="@product.ImageUrl" alt="">
                 <h5 class="item_name">@product.Name</h5>
-                <span class="item_price">R$ @product.Price</span>
-                <a href="javascript:;" class="item_add btn">Adicionar ao carrinho</a>
+                <span class="item_price">R$ @product.Price</span> <a href="javascript:;" class="item_add btn">
+                    Adicionar ao carrinho</a>
             </div>
         </li>
     }
-    
 </ul>

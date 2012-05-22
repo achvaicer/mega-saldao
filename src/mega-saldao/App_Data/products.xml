@@ -12,20 +12,20 @@
     <price>50</price>
     <description></description>
     <quantity>1</quantity>
-    <image></image>
+    <image>http://blogs.msdn.com/blogfiles/imtesty/WindowsLiveWriter/HowWeTestSoftwareAtMicrosoft_9FA9/hwtsams_2.jpg</image>
   </product>
   <product>
     <name>Refactoring</name>
     <price>60</price>
     <description></description>
     <quantity>1</quantity>
-    <image></image>
+    <image>http://martinfowler.com/refactoringBook.jpg</image>
   </product>
   <product>
     <name>Engenharia de Software</name>
     <price>80</price>
     <description></description>
     <quantity>1</quantity>
-    <image></image>
+    <image>http://www.livrariaresposta.com.br/fotos/9788588639287.jpg</image>
   </product>
 </products>
