@@ -5,8 +5,8 @@
 .simpleCart_items{
 	float:left;
 	clear:left;
-	width:446px;
 	margin:20px;
+	width: 940px;
 }
 .itemContainer{
 	clear:both;

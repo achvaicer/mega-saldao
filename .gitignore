@@ -3,6 +3,6 @@ bin
 obj
 
 *.suo
-
+mega-saldao.Publish.xml
 # mstest test results
 TestResults
