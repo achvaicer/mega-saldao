@@ -1,4 +1,7 @@
-﻿
+﻿.headerRow 
+{
+    width: 100%;    
+}
 .headerRow div{
 	color:#333;
 }
