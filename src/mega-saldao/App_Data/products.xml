@@ -28,4 +28,33 @@
     <quantity>1</quantity>
     <image>http://www.livrariaresposta.com.br/fotos/9788588639287.jpg</image>
   </product>
+  <product>
+    <name>Utilizando UML e Padrões</name>
+    <price>80</price>
+    <description></description>
+    <quantity>1</quantity>
+    <image>http://i.s8.com.br/images/books/cover/img2/158382_4.jpg</image>
+  </product>
+  <product>
+    <name>Linux - Só por Prazer</name>
+    <price>30</price>
+    <description></description>
+    <quantity>1</quantity>
+    <image>http://skoob.s3.amazonaws.com/livros/17661/LINUX__SO_POR_PRAZER__1238796215P.jpg</image>
+  </product>
+  <product>
+    <name>Competindo pelo Futuro</name>
+    <price>30</price>
+    <description></description>
+    <quantity>1</quantity>
+    <image>http://i.s8.com.br/images/books/cover/img8/290048_4.jpg</image>
+  </product>
+  <product>
+    <name>What's Science Ever Done For Us</name>
+    <price>20</price>
+    <description>What's Science Ever Done For Us: What the Simpsons Can Teach Us About Physics, Robots, Life, and the Universe</description>
+    <quantity>1</quantity>
+    <image>http://pdfcast.org/images/aff/9780470169513.jpg</image>
+  </product>
+  
 </products>
