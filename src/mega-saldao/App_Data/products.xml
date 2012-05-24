@@ -56,5 +56,55 @@
     <quantity>1</quantity>
     <image>http://pdfcast.org/images/aff/9780470169513.jpg</image>
   </product>
+  <product>
+    <name>What they don't teach you at Harvard Business School</name>
+    <price>10</price>
+    <description></description>
+    <quantity>1</quantity>
+    <image>http://images.betterworldbooks.com/055/What-They-Don-t-Teach-You-at-Harvard-Business-School-9780553345834.jpg</image>
+  </product>
+  <product>
+    <name>Freakonomics</name>
+    <price>20</price>
+    <description>Freakonomics: o Lado Oculto e Inesperado de Tudo que nos Afeta</description>
+    <quantity>1</quantity>
+    <image>http://imagex.buscape.com.br/capas/livros/704/227/200x200_8535227407.jpg</image>
+  </product>
+  <product>
+    <name>O Universo Numa Casca de Noz</name>
+    <price>20</price>
+    <description></description>
+    <quantity>1</quantity>
+    <image>http://imagex.buscape.com.br/capas/livros/987/926/200x200_8520926789.jpg</image>
+  </product>
+  <product>
+    <name>Start Up</name>
+    <price>15</price>
+    <description></description>
+    <quantity>1</quantity>
+    <image>http://imagex.buscape.com.br/capas/livros/549/009/200x200_8522009945.jpg</image>
+  </product>
+  <product>
+    <name>Segurança Total</name>
+    <price>10</price>
+    <description>Seguranca Total - Protegendo-se Contra os Hackers</description>
+    <quantity>1</quantity>
+    <image>http://imagex.buscape.com.br/capas/livros/886/611/200x200_8534611688.jpg</image>
+  </product>
+  <product>
+    <name>Manual Completo do Hacker</name>
+    <price>10</price>
+    <description>Manual Completo do Hacker Como Ser e Evitá-los</description>
+    <quantity>1</quantity>
+    <image>http://imagex.buscape.com.br/capas/livros/197/846/200x200_8586846791.jpg</image>
+  </product>
+  <product>
+    <name>The Accidental Billionaires</name>
+    <price>20</price>
+    <description></description>
+    <quantity>1</quantity>
+    <image>http://imagex.buscape.com.br/capas/livros/055/019/200x200_0434019550.jpg</image>
+  </product>
   
+
 </products>
