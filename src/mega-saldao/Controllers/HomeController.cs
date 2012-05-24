@@ -24,5 +24,10 @@ namespace mega_saldao.Controllers
         {
             return View();
         }
+
+        public ActionResult Contact()
+        {
+            return View();
+        }
     }
 }

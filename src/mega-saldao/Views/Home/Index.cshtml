@@ -1,32 +1,5 @@
 ﻿@model List<mega_saldao.Models.Product>
-@section head
-{
-    <script src="@Url.Content("~/Scripts/simpleCart.min.js")" type="text/javascript"></script>
-    <script type='text/javascript'>
-        $(document).ready(function () {
-            simpleCart({ checkout: { type: "PayPal", email: "achvaicer@gmail.com" }, currency: "BRL" });
-            simpleCart({
-                cartColumns: [
-                    { attr: "name", label: "Nome" },
-                    { attr: "price", label: "Preço", view: 'currency' },
-                    { attr: "quantity", label: "Quantidade" },
-                    { view: "remove", text: "Remover", label: false }
-                    ]
-                        });
-            $(".btncart").click(function () {
-                $(".well").toggle("slow");
-            });
-            $(".hero-unit").fadeOut(3000);
-        });
-    </script>
-}
 
-<div class="well" style="display:none">
-    <div class="simpleCart_items row" >
-    
-    </div>
-
-</div>
 <div class="hero-unit">
     <h1>
         Boas Compras</h1>
@@ -34,6 +7,9 @@
         Escolha os produtos que você deseja e boas compras.
     </p>
 </div>
+<script type="text/javascript">
+    $(".hero-unit").fadeOut(3000);    
+</script>
 <ul class="thumbnails">
     @foreach (var product in Model)
     { 
