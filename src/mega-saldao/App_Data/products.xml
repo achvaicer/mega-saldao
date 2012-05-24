@@ -1,27 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <products>
   <product>
-    <name>Code Complete</name>
-    <price>50</price>
-    <description>Code Complete - Melhor livro sobre desenvolvimento de software</description>
-    <quantity>1</quantity>
-    <image>http://ecx.images-amazon.com/images/I/51nWkLCu1SL._SS500_.jpg</image>
-  </product>
-  <product>
-    <name>How We Test Software at Microsoft</name>
-    <price>50</price>
-    <description></description>
-    <quantity>1</quantity>
-    <image>http://blogs.msdn.com/blogfiles/imtesty/WindowsLiveWriter/HowWeTestSoftwareAtMicrosoft_9FA9/hwtsams_2.jpg</image>
-  </product>
-  <product>
-    <name>Refactoring</name>
-    <price>60</price>
-    <description></description>
-    <quantity>1</quantity>
-    <image>http://martinfowler.com/refactoringBook.jpg</image>
-  </product>
-  <product>
     <name>Engenharia de Software</name>
     <price>80</price>
     <description></description>
@@ -55,13 +34,6 @@
     <description>What's Science Ever Done For Us: What the Simpsons Can Teach Us About Physics, Robots, Life, and the Universe</description>
     <quantity>1</quantity>
     <image>http://pdfcast.org/images/aff/9780470169513.jpg</image>
-  </product>
-  <product>
-    <name>What they don't teach you at Harvard Business School</name>
-    <price>10</price>
-    <description></description>
-    <quantity>1</quantity>
-    <image>http://images.betterworldbooks.com/055/What-They-Don-t-Teach-You-at-Harvard-Business-School-9780553345834.jpg</image>
   </product>
   <product>
     <name>Freakonomics</name>
@@ -105,6 +77,12 @@
     <quantity>1</quantity>
     <image>http://imagex.buscape.com.br/capas/livros/055/019/200x200_0434019550.jpg</image>
   </product>
-  
+  <product>
+    <name>What they don't teach you at Harvard Business School</name>
+    <price>10</price>
+    <description></description>
+    <quantity>1</quantity>
+    <image>http://images.betterworldbooks.com/055/What-They-Don-t-Teach-You-at-Harvard-Business-School-9780553345834.jpg</image>
+  </product>
 
 </products>
