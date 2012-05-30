@@ -11,6 +11,10 @@
 	margin:20px;
 	width: 940px;
 }
+.simpleCart_shelfItem 
+{
+    height:200px;
+}
 .itemContainer{
 	clear:both;
 	width:543px;
