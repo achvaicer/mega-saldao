@@ -6,7 +6,7 @@
     <price>80</price>
     <description></description>
     <quantity>1</quantity>
-    <image>http://www.livrariaresposta.com.br/fotos/9788588639287.jpg</image>
+    <image>engenharia_software.jpg</image>
   </product>
   <product>
     <category>Livro</category>
@@ -14,7 +14,7 @@
     <price>80</price>
     <description></description>
     <quantity>1</quantity>
-    <image>http://i.s8.com.br/images/books/cover/img2/158382_4.jpg</image>
+    <image>uml_padroes.jpg</image>
   </product>
   <product>
     <category>Livro</category>
@@ -22,7 +22,7 @@
     <price>30</price>
     <description></description>
     <quantity>1</quantity>
-    <image>http://skoob.s3.amazonaws.com/livros/17661/LINUX__SO_POR_PRAZER__1238796215P.jpg</image>
+    <image>linux.jpg</image>
   </product>
   <product>
     <category>Livro</category>
@@ -30,7 +30,7 @@
     <price>30</price>
     <description></description>
     <quantity>1</quantity>
-    <image>http://i.s8.com.br/images/books/cover/img8/290048_4.jpg</image>
+    <image>competindo_futuro.jpg</image>
   </product>
   <product>
     <category>Livro</category>
@@ -38,7 +38,7 @@
     <price>20</price>
     <description>What's Science Ever Done For Us: What the Simpsons Can Teach Us About Physics, Robots, Life, and the Universe</description>
     <quantity>1</quantity>
-    <image>http://pdfcast.org/images/aff/9780470169513.jpg</image>
+    <image>what_science.jpg</image>
   </product>
   <product>
     <category>Livro</category>
@@ -46,7 +46,7 @@
     <price>20</price>
     <description>Freakonomics: o Lado Oculto e Inesperado de Tudo que nos Afeta</description>
     <quantity>1</quantity>
-    <image>http://imagex.buscape.com.br/capas/livros/704/227/200x200_8535227407.jpg</image>
+    <image>freakonomics.jpg</image>
   </product>
   <product>
     <category>Livro</category>
@@ -54,7 +54,7 @@
     <price>20</price>
     <description></description>
     <quantity>1</quantity>
-    <image>http://imagex.buscape.com.br/capas/livros/987/926/200x200_8520926789.jpg</image>
+    <image>universo_casca_noz.jpg</image>
   </product>
   <product>
     <category>Livro</category>
@@ -62,7 +62,7 @@
     <price>15</price>
     <description></description>
     <quantity>1</quantity>
-    <image>http://imagex.buscape.com.br/capas/livros/549/009/200x200_8522009945.jpg</image>
+    <image>startup.jpg</image>
   </product>
   <product>
     <category>Livro</category>
@@ -70,7 +70,7 @@
     <price>10</price>
     <description>Seguranca Total - Protegendo-se Contra os Hackers</description>
     <quantity>1</quantity>
-    <image>http://imagex.buscape.com.br/capas/livros/886/611/200x200_8534611688.jpg</image>
+    <image>seguranca_total.jpg</image>
   </product>
   <product>
     <category>Livro</category>
@@ -78,7 +78,7 @@
     <price>10</price>
     <description>Manual Completo do Hacker Como Ser e Evitá-los</description>
     <quantity>1</quantity>
-    <image>http://imagex.buscape.com.br/capas/livros/197/846/200x200_8586846791.jpg</image>
+    <image>hacker.jpg</image>
   </product>
   <product>
     <category>Livro</category>
@@ -86,7 +86,7 @@
     <price>20</price>
     <description></description>
     <quantity>1</quantity>
-    <image>http://imagex.buscape.com.br/capas/livros/055/019/200x200_0434019550.jpg</image>
+    <image>accidental_billionares.jpg</image>
   </product>
   <product>
     <category>Jogo</category>
@@ -94,7 +94,7 @@
     <price>90</price>
     <description></description>
     <quantity>1</quantity>
-    <image>http://imagex.buscape.com.br/thumbs/ensopado/6409/200x200_230077_1.jpg</image>
+    <image>modern_warfare2.jpg</image>
   </product>
   <product>
     <category>Jogo</category>
@@ -102,7 +102,7 @@
     <price>10</price>
     <description></description>
     <quantity>1</quantity>
-    <image>http://4.bp.blogspot.com/-9CllgDKqRvI/Ti4SSkGxIYI/AAAAAAAAATM/vwUwB7OM4-w/s1600/Pirates+of+the+Caribbean.jpg</image>
+    <image>piratas_caribe.jpg</image>
   </product>
   <product>
     <category>Jogo</category>
@@ -110,7 +110,7 @@
     <price>10</price>
     <description></description>
     <quantity>1</quantity>
-    <image>http://images.wikia.com/lostpedia/pt/images/a/ab/Lost_Via_Domus-Xbox.jpg</image>
+    <image>lost.jpg</image>
   </product>
   <product>
     <category>Jogo</category>
@@ -118,7 +118,7 @@
     <price>25</price>
     <description></description>
     <quantity>1</quantity>
-    <image>http://imagex.buscape.com.br/thumbs/ensopado/6409/200x200_176366_1.jpg</image>
+    <image>rock_band.jpg</image>
   </product>
   <product>
     <category>Jogo</category>
@@ -126,7 +126,7 @@
     <price>25</price>
     <description></description>
     <quantity>1</quantity>
-    <image>http://imagex.buscape.com.br/thumbs/ensopado/6409/200x200_199929_1.jpg</image>
+    <image>halo.jpg</image>
   </product>
   <product>
     <category>DVD</category>
@@ -134,7 +134,7 @@
     <price>30</price>
     <description></description>
     <quantity>1</quantity>
-    <image>http://i.s8.com.br/images/dvds/cover/img2/23602242_1.jpg</image>
+    <image>big_bang.jpg</image>
   </product>
   <product>
     <category>DVD</category>
@@ -142,7 +142,7 @@
     <price>10</price>
     <description></description>
     <quantity>1</quantity>
-    <image>http://www.livrariasaraiva.com.br/imagem/imagem.dll?pro_id=189358</image>
+    <image>no_direction_home.jpg</image>
   </product>
   <product>
     <category>DVD</category>
@@ -150,7 +150,7 @@
     <price>10</price>
     <description></description>
     <quantity>1</quantity>
-    <image>http://thumbs.buscape.com.br/T100x100/__2.913456-5b8ee35.jpg</image>
+    <image>a_queda.jpg</image>
   </product>
   <product>
     <category>Livro</category>
@@ -158,7 +158,7 @@
     <price>10</price>
     <description></description>
     <quantity>1</quantity>
-    <image>http://images.betterworldbooks.com/055/What-They-Don-t-Teach-You-at-Harvard-Business-School-9780553345834.jpg</image>
+    <image>harvard.jpg</image>
   </product>
   <product>
     <category>Livro</category>
@@ -166,6 +166,6 @@
     <price>30</price>
     <description></description>
     <quantity>1</quantity>
-    <image>http://akamaicovers.oreilly.com/images/9780735625624/lrg.jpg</image>
+    <image>70_562.jpg</image>
   </product>
 </products>

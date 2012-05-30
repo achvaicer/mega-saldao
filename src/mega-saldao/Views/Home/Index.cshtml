@@ -15,7 +15,7 @@
     { 
         <li class="span3 simpleCart_shelfItem">
             <div class="thumbnail">
-                <img height="141px" src="@product.ImageUrl" alt="@product.Description">
+                <img height="141px" src="@Url.Content(string.Format("~/Content/products/{0}", product.ImageUrl))" alt="@product.Description">
                 <h5 class="item_name">@product.Name</h5>
                 <span class="item_price">R$ @product.Price</span> <a href="javascript:;" class="item_add btn">
                     Adicionar ao carrinho</a>
