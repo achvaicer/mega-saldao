@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <products>
   <product>
+    <category>Livro</category>
     <name>Engenharia de Software</name>
     <price>80</price>
     <description></description>
@@ -8,6 +9,7 @@
     <image>http://www.livrariaresposta.com.br/fotos/9788588639287.jpg</image>
   </product>
   <product>
+    <category>Livro</category>
     <name>Utilizando UML e Padrões</name>
     <price>80</price>
     <description></description>
@@ -15,6 +17,7 @@
     <image>http://i.s8.com.br/images/books/cover/img2/158382_4.jpg</image>
   </product>
   <product>
+    <category>Livro</category>
     <name>Linux - Só por Prazer</name>
     <price>30</price>
     <description></description>
@@ -22,6 +25,7 @@
     <image>http://skoob.s3.amazonaws.com/livros/17661/LINUX__SO_POR_PRAZER__1238796215P.jpg</image>
   </product>
   <product>
+    <category>Livro</category>
     <name>Competindo pelo Futuro</name>
     <price>30</price>
     <description></description>
@@ -29,6 +33,7 @@
     <image>http://i.s8.com.br/images/books/cover/img8/290048_4.jpg</image>
   </product>
   <product>
+    <category>Livro</category>
     <name>What's Science Ever Done For Us</name>
     <price>20</price>
     <description>What's Science Ever Done For Us: What the Simpsons Can Teach Us About Physics, Robots, Life, and the Universe</description>
@@ -36,6 +41,7 @@
     <image>http://pdfcast.org/images/aff/9780470169513.jpg</image>
   </product>
   <product>
+    <category>Livro</category>
     <name>Freakonomics</name>
     <price>20</price>
     <description>Freakonomics: o Lado Oculto e Inesperado de Tudo que nos Afeta</description>
@@ -43,6 +49,7 @@
     <image>http://imagex.buscape.com.br/capas/livros/704/227/200x200_8535227407.jpg</image>
   </product>
   <product>
+    <category>Livro</category>
     <name>O Universo Numa Casca de Noz</name>
     <price>20</price>
     <description></description>
@@ -50,6 +57,7 @@
     <image>http://imagex.buscape.com.br/capas/livros/987/926/200x200_8520926789.jpg</image>
   </product>
   <product>
+    <category>Livro</category>
     <name>Start Up</name>
     <price>15</price>
     <description></description>
@@ -57,6 +65,7 @@
     <image>http://imagex.buscape.com.br/capas/livros/549/009/200x200_8522009945.jpg</image>
   </product>
   <product>
+    <category>Livro</category>
     <name>Segurança Total</name>
     <price>10</price>
     <description>Seguranca Total - Protegendo-se Contra os Hackers</description>
@@ -64,6 +73,7 @@
     <image>http://imagex.buscape.com.br/capas/livros/886/611/200x200_8534611688.jpg</image>
   </product>
   <product>
+    <category>Livro</category>
     <name>Manual Completo do Hacker</name>
     <price>10</price>
     <description>Manual Completo do Hacker Como Ser e Evitá-los</description>
@@ -71,6 +81,7 @@
     <image>http://imagex.buscape.com.br/capas/livros/197/846/200x200_8586846791.jpg</image>
   </product>
   <product>
+    <category>Livro</category>
     <name>The Accidental Billionaires</name>
     <price>20</price>
     <description></description>
@@ -78,11 +89,83 @@
     <image>http://imagex.buscape.com.br/capas/livros/055/019/200x200_0434019550.jpg</image>
   </product>
   <product>
+    <category>Jogo</category>
+    <name>Call of Duty Modern Warfare 2 Hardened Edition</name>
+    <price>90</price>
+    <description></description>
+    <quantity>1</quantity>
+    <image>http://imagex.buscape.com.br/thumbs/ensopado/6409/200x200_230077_1.jpg</image>
+  </product>
+  <product>
+    <category>Jogo</category>
+    <name>Pirates of the Caribbean: At World's End (Jogo fudido)</name>
+    <price>10</price>
+    <description></description>
+    <quantity>1</quantity>
+    <image>http://4.bp.blogspot.com/-9CllgDKqRvI/Ti4SSkGxIYI/AAAAAAAAATM/vwUwB7OM4-w/s1600/Pirates+of+the+Caribbean.jpg</image>
+  </product>
+  <product>
+    <category>Jogo</category>
+    <name>Lost Via Domus (Jogo fudido)</name>
+    <price>10</price>
+    <description></description>
+    <quantity>1</quantity>
+    <image>http://images.wikia.com/lostpedia/pt/images/a/ab/Lost_Via_Domus-Xbox.jpg</image>
+  </product>
+  <product>
+    <category>Jogo</category>
+    <name>Rock Band (Só o jogo!)</name>
+    <price>25</price>
+    <description></description>
+    <quantity>1</quantity>
+    <image>http://imagex.buscape.com.br/thumbs/ensopado/6409/200x200_176366_1.jpg</image>
+  </product>
+  <product>
+    <category>Jogo</category>
+    <name>Halo 3 OSDT</name>
+    <price>25</price>
+    <description></description>
+    <quantity>1</quantity>
+    <image>http://imagex.buscape.com.br/thumbs/ensopado/6409/200x200_199929_1.jpg</image>
+  </product>
+  <product>
+    <category>DVD</category>
+    <name>The Big Bang Theory - 1a Temporada Completa</name>
+    <price>30</price>
+    <description></description>
+    <quantity>1</quantity>
+    <image>http://i.s8.com.br/images/dvds/cover/img2/23602242_1.jpg</image>
+  </product>
+  <product>
+    <category>DVD</category>
+    <name>No Direction Home - DVD Duplo</name>
+    <price>10</price>
+    <description></description>
+    <quantity>1</quantity>
+    <image>http://www.livrariasaraiva.com.br/imagem/imagem.dll?pro_id=189358</image>
+  </product>
+  <product>
+    <category>DVD</category>
+    <name>A Queda - As últimas horas de Hitler</name>
+    <price>10</price>
+    <description></description>
+    <quantity>1</quantity>
+    <image>http://thumbs.buscape.com.br/T100x100/__2.913456-5b8ee35.jpg</image>
+  </product>
+  <product>
+    <category>Livro</category>
     <name>What they don't teach you at Harvard Business School</name>
     <price>10</price>
     <description></description>
     <quantity>1</quantity>
     <image>http://images.betterworldbooks.com/055/What-They-Don-t-Teach-You-at-Harvard-Business-School-9780553345834.jpg</image>
   </product>
-
+  <product>
+    <category>Livro</category>
+    <name>MCTS Self-Paced Training Kit (Exam 70-562): Microsoft® .NET Framework 3.5—ASP.NET Application Development</name>
+    <price>30</price>
+    <description></description>
+    <quantity>1</quantity>
+    <image>http://akamaicovers.oreilly.com/images/9780735625624/lrg.jpg</image>
+  </product>
 </products>
